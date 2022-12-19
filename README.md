@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Raj MukeshKumar Parmar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://rajparmar03.github.io](https://rajparmar03.github.io/)
+- 👨‍💻 All of my projects are available at [https://github.com/RajParmar03?tab=repositories](https://github.com/RajParmar03?tab=repositories)
 
 - 💬 Ask me about **MERN**
 
