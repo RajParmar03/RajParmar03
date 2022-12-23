@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋, I'm Raj MukeshKumar Parmar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://rajparmar03.github.io/](https://rajparmar03.github.io/)
+- 👨‍💻 All of my projects are available at [https://rajparmar03.github.io/](Portfolio)
 
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **rjbusiness03@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ck_asKSAER4b7pXswbSAVZI6z4o0Y7l4/view?usp=sharing](https://drive.google.com/file/d/1Ck_asKSAER4b7pXswbSAVZI6z4o0Y7l4/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Ck_asKSAER4b7pXswbSAVZI6z4o0Y7l4/view?usp=sharing](Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
